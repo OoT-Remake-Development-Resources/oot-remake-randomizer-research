@@ -1,2 +1,2 @@
-# Oot Remake Randomizer Research
+# Oot Remake Randomizer Resources
 Shared research, documentation, testing, and resources for all randomizer development related to the Ocarina of Time remake.
